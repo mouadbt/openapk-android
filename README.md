@@ -24,16 +24,15 @@ So I built this. It's a simple, no-nonsense Android wrapper for OpenAPK. It does
 ---
 
 ## Table of Contents
-- Features
-- How it works
-- Installation
-- A Note on "Why"
-- Tech Stack
-- Credits
+- [Features](#features)
+- [How it works](#how-it-works)
+- [Installation](#installation)
+- [A Note on "Why"](#a-note-on-why)
+- [Tech Stack](#tech-stack)
+- [Credits](#credits)
 
 ---
 
-## Features
 ## Features
 - Ultra Lightweight: The OpenAPK APK is only 864 KiB. 
 - Native Feel: No browser UI, no address bars—just the OpenAPK store.
