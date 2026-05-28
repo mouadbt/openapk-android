@@ -23,11 +23,19 @@ So I built this. It's a simple, no-nonsense Android wrapper for OpenAPK. It does
 
 ---
 
+> ## A Note on "Why"
+>
+> For everyone that finds this useless—it’s okay. I’m not trying to convince anyone of anything. This is a workflow that is very subjective and personal. Personally, it’s just annoying to me to open OpenAPK as a website in a browser. There’s no logical or mathematical reason other than personal preference.
+>
+> It’s totally okay to find this weird or useless. But I highly ask you to just try it. It’s free, safe, and easy. You won’t lose anything. The best part is opening the app and seeing that clean experience. Try it just for testing—I highly suggest it, you might actually like it. I’m not saying this is the "best" way to do it; it’s just the way I like it.
+
+---
+
 ## Table of Contents
+- [A Note on "Why"](#a-note-on-why)
 - [Features](#features)
 - [How it works](#how-it-works)
 - [Installation](#installation)
-- [A Note on "Why"](#a-note-on-why)
 - [Tech Stack](#tech-stack)
 - [Credits](#credits)
 
@@ -52,15 +60,6 @@ The app is a dedicated wrapper for the official OpenAPK website.
 1. Go to the [Releases](https://github.com/YOUR_USERNAME/openapk-android/releases) section.
 2. Download the `openapk.apk` wrapper.
 3. Install it on your Android device (ensure "Install from Unknown Sources" is enabled).
-
----
-
-> ## A Note on "Why"
->
-> For everyone that finds this useless—it’s okay. I’m not trying to convince anyone of anything. This is a workflow that is very subjective and personal. Personally, it’s just annoying to me to open OpenAPK as a website in a browser. There’s no logical or mathematical reason other than personal preference.
->
-> It’s totally okay to find this weird or useless. But I highly ask you to just try it. It’s free, safe, and easy. You won’t lose anything. The best part is opening the app and seeing that clean experience. Try it just for testing—I highly suggest it, you might actually like it. I’m not saying this is the "best" way to do it; it’s just the way I like it.
-
 
 ---
 
